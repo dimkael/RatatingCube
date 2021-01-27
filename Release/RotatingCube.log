@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\crist\source\repos\RotatingCube\main.cpp(63,33): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\crist\source\repos\RotatingCube\main.cpp(64,33): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\crist\source\repos\RotatingCube\main.cpp(129,59): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\crist\source\repos\RotatingCube\main.cpp(73,9): warning C4101: hdc: неиспользованная локальная переменная
+C:\Users\crist\source\repos\RotatingCube\main.cpp(74,17): warning C4101: xPos: неиспользованная локальная переменная
+C:\Users\crist\source\repos\RotatingCube\main.cpp(74,23): warning C4101: yPos: неиспользованная локальная переменная
+  Создание кода
+  1 of 13 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  RotatingCube.vcxproj -> C:\Users\crist\source\repos\RotatingCube\Release\RotatingCube.exe
